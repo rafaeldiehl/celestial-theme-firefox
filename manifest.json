@@ -1,0 +1,45 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Celestial",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(25, 25, 32)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "frame": "rgb(0, 0, 0)",
+      "tab_background_text": "rgb(149, 150, 154)",
+      "toolbar_field": "rgb(11, 12, 15)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "tab_line": "rgb(205, 76, 106)",
+      "popup": "rgb(11, 12, 15)",
+      "popup_text": "rgb(154, 156, 158)",
+      "button_background_active": "rgb(14, 15, 19)",
+      "button_background_hover": "rgb(14, 15, 19)",
+      "icons_attention": "rgb(190, 161, 132)",
+      "icons": "rgb(154, 156, 158)",
+      "popup_border": "rgba(255, 255, 255, 0)",
+      "popup_highlight_text": "rgb(255, 255, 255)",
+      "popup_highlight": "rgb(0, 0, 0)",
+      "sidebar_border": "rgba(0, 0, 0, 0)",
+      "sidebar_highlight_text": "rgb(255, 255, 255)",
+      "sidebar_highlight": "rgb(0, 0, 0)",
+      "sidebar_text": "rgb(154, 156, 158)",
+      "sidebar": "rgb(14, 15, 19)",
+      "toolbar_field_border_focus": "rgba(8, 0, 0, 0)",
+      "tab_loading": "rgb(205, 76, 106)"
+    }
+  }
+}
